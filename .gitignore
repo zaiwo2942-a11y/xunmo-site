@@ -1,6 +1,6 @@
-# Original masters — kept locally as backup, not deployed
+# Original masters 鈥?kept locally as backup, not deployed
 photo/
-浔墨photo/
+娴斿ⅷphoto/
 
 # OS junk
 .DS_Store
@@ -15,3 +15,6 @@ desktop.ini
 *.tmp
 *.log
 node_modules/
+
+# Deploy staging (obsolete after GitHub Pages)
+dist/

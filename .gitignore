@@ -1,0 +1,17 @@
+# Original masters — kept locally as backup, not deployed
+photo/
+浔墨photo/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Misc
+*.tmp
+*.log
+node_modules/
